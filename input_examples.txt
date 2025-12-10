@@ -1,0 +1,11 @@
+teste_1
+100
+100
+50
+todos os blocos
+
+teste_2
+80
+80
+30
+tirar Vestiário
