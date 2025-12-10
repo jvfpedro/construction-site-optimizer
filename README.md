@@ -1,4 +1,4 @@
-# **Aconstruction-site-optimizer**  
+# **construction-site-optimizer**  
 
 This project was developed for the *Computational Tools for Civil Engineering* course at the **Federal University of Santa Catarina (UFSC), Brazil**.  
 
