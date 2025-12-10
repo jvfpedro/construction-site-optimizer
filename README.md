@@ -1,6 +1,6 @@
-# **Automated Construction Site Layout Generator**  
+# **Aconstruction-site-optimizer**  
 
-This project was developed in collaboration with Daniel Tavares dos Anjos (https://github.com/danieltanjos) for the *Computational Tools for Civil Engineering* course at the **Federal University of Santa Catarina (UFSC), Brazil**.  
+This project was developed for the *Computational Tools for Civil Engineering* course at the **Federal University of Santa Catarina (UFSC), Brazil**.  
 
 The goal is to automate the generation of construction site layouts, ensuring compliance with **NR18 safety regulations** and optimizing the spatial arrangement of essential site elements such as storage, restrooms, and dining areas.  
 
@@ -95,12 +95,12 @@ A **DXF file** containing the optimized construction site layout is saved in the
 
 ## Author
 João Vitor Ferreira Pedro
-Engineering Student at UFSC
-GitHub: https://github.com/jvfpedro
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
 Daniel Tavares dos Anjos
-Engineering Student at UFSC
-GitHub: https://github.com/danieltanjos
+[collaborator]
+[https://github.com/danieltanjos]
 
 ---
 
